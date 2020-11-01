@@ -5,7 +5,7 @@ body {
 
 .assignments {
     display: flex;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
 }
 .assignment {
     width: 21%;
@@ -47,4 +47,8 @@ a{
 
 .assignment a:hover {
     color: #F2B705;
+}
+
+p{
+    color: white;
 }
